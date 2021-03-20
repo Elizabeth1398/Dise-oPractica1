@@ -1,0 +1,99 @@
+.section {
+  padding: 8rem 0 7rem;
+  text-align: center;
+}
+.section-heading,
+.section-description {
+  margin-bottom: 1.2rem;
+
+}
+.get-help {
+  border-bottom: 1px solid #ddd;
+}
+.section-mini{
+	margin-bottom:1px;
+	font-size: 12px;
+}
+.section-normal{
+	margin-bottom:1px;
+	font-size: 20px;
+	font-weight: 400;
+}
+.section-minibold{
+	font-size: 12px;
+	color: #33C3F0;
+}
+.rewardingContent {
+ margin-top:10px;
+}
+.rewardingImg {
+ width: 100%;
+ display: block;
+}
+.titleShortCut{
+	text-align:left;
+	padding-top:60px;
+	padding-right:34%;
+	
+}
+.titleExploration{
+	text-align:left;
+	padding-top:20%;
+	
+}
+.titleParental{
+	text-align:left;
+	padding-top:5%;
+	padding-left: 20%;
+	
+}
+.shortCut{
+	padding: 50px 60px;
+	background-color: #FAFAFA;
+}
+.aplicationCenter{
+	padding: 50px 60px;
+	background-color: #7239b3;
+}
+
+
+.categories {
+  background-size: cover;
+}
+.categories .section-description { 
+  margin-bottom: 4rem;
+}
+.section-categories{
+	font-weight:400;
+	
+}
+.imageCenter{
+	text-align: center;
+}
+.buttons{
+	text-align: center;
+	display: table-caption;
+
+}
+.whiteTitle{
+	color: white;
+}
+.main{
+	background-color: white;
+	font-size: 16px;
+	
+}
+.flat{
+	background-color:#00000012;
+	color:white;
+	font-size: 16px;
+}
+.text{
+	font-size: 21px;
+    color: white;
+
+}
+.bigImg{
+    width: 150%;
+	display: block;
+}
